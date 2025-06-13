@@ -32,14 +32,14 @@ This repository follows a clean, professional layout with a **single main branch
 ````
 student-management-system/
 ├── src/
-│ ├── Student.java
-│ └── StudentManagementSystem.java
+│ ├── BioStudent.java
+│ └── BiotechStudentManagement.java
 ├── assets/
 │ └── screenshots/
 │ ├── login-screen.png
 │ └── ui-main.png
 ├── presentation/
-│ └── student-management-system-presentation.pptx
+│ └── Biotech-student-management-system-presentation.pptx
 ├── README.md
 ````
 
